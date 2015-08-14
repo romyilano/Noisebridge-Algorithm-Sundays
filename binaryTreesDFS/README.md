@@ -9,26 +9,17 @@ This includes
 I will be drawing off of a PSD file and doing a screencast.
 I highly suggest you sketch stuff out on paper as well.
 
-# Videos
+# Additional Materials
 
 * [highly excellent video with visuals](https://www.youtube.com/watch?v=gm8DUJJhmY4)
-* 
+* See [pdf/](pdf/) for notes from a college level lecture class. 
 
-# Learning Notes
-
-The biggest trip-up for people is that while this is fairly easy, it
-tends to be boring to learn and it is not a data structure you use
-in everyday life.
-
-I encourage you to find any way possible to make this more interesting 
-than it is upon first glance, whether it be through pictures, candy or
-non illegal substances
-
-Once you memorize this stuff, then you can move on to more interesting
-problems like graph algorithms, more sophisticated binary trees, etc. and 
-breadth-first searches. 
-
-Think of this as downing some medicine before being able to do the
-fun stuff.
+![rote memorize by any means possible](images/bst_preorder_graphic.png)
 
 
+## Tips
+
+* __Tip__ If you're inclined to learning from print, I highly recommend finding a used college-level textbook (the thicker the better) as they tend to discuss the basics in more depths than an ebook or blog post
+* MEMORIZE IT BY HEART - it's not intuitive
+* This stuff is easy but it's fairly boring to learn. Think of it like learning multiplication scales. You will get to do more interesting algorithms later
+* You will rarely encounter this stuff in your everyday job, so it's all the more important to find special ways to memorize this. Dip it in candy / chocolate / any non illegal substance
