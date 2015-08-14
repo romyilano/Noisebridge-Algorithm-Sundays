@@ -6,4 +6,4 @@ https://noisebridge.net/wiki/(affiliated_with)_Women_Who_Code_Algorithms_Study_G
 
 These are notes for Noisebridge Algo Sundays
 
-![Twos Complement](https://noisebridge.net/images/e/e6/AlgorithmTwosComplement.jpg)
+![Twos Complement](images/600px-AlgorithmTwosComplement.jpg)
