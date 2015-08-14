@@ -6,6 +6,14 @@ This includes
 * Pre-Order
 * Post Order
 
+I will be drawing off of a PSD file and doing a screencast.
+I highly suggest you sketch stuff out on paper as well.
+
+# Videos
+
+* [highly excellent video with visuals](https://www.youtube.com/watch?v=gm8DUJJhmY4)
+* 
+
 # Learning Notes
 
 The biggest trip-up for people is that while this is fairly easy, it
