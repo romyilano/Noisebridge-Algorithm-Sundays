@@ -6,8 +6,13 @@ This includes
 * Pre-Order
 * Post Order
 
-I will be drawing off of a PSD file and doing a screencast.
-I highly suggest you sketch stuff out on paper as well.
+* [Blog posting on medium](https://medium.com/@romyilano/basic-binary-search-tree-dfs-noisebridge-algorithm-sunday-b3f85ad3f4a3)
+
+
+# Presentation
+
+* [Slides](https://docs.google.com/presentation/d/1ll14AcLD5oJOpFGwxcZMo6yzWVejC9myiuFAuo_dIFY/pub?start=true&loop=false&delayms=3000&slide=id.g6483e0a07_2_28)
+
 
 # Additional Materials
 
